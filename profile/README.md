@@ -1,5 +1,5 @@
 <img 
-  src="https://media.discordapp.net/attachments/713071168331972699/832391256096636938/rlmm.png" 
+  src="https://rocketleaguemapmaking.com/icons/logo_rlmm_fulltext_new.png" 
   style="width: 80%;">
 
 Rocket League Mapmaking is a small community about making custom maps for the game Rocket League.  
